@@ -8,18 +8,7 @@
          "title":"Animan",
          "package":"xyz.animan.ok",
          "hideShadow":false
-      },
-      {
-         "url":"https://dcsyhi1998.github.io/Banners/ZetsuBaner.png",
-         "title":"Zetsu",
-         "package":"jp.dcsyhi.zetsurootless15",
-         "hideShadow":false
-      },
-      {
-         "url":"https://dcsyhi1998.github.io/Banners/FastAppLSBanner.png",
-         "title":"FastApp LS",
-         "package":"com.twickd.dcsyhi.fastappls",
-         "hideShadow":false
+      
       }
    ]
 }

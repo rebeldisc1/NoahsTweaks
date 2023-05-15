@@ -1,7 +1,7 @@
 {
    "class":"FeaturedBannersView",
    "itemSize":"{296, 148}",
-   "itemCornerRadius":2,
+   "itemCornerRadius":8,
    "banners":[
       {
          "url":"https://external-preview.redd.it/animan-studios-full-vid-yabanc%C4%B1-sosyal-medyada-pop%C3%BCler-v0-B-tcN9kZGE3whkgzMUEZA_-BGKyh-6NBEYRSC_VtXW0.png?format=pjpg&auto=webp&s=62edf4539ab26c05afdedb4a2e35e62c69f3b6f8",
@@ -12,9 +12,9 @@
       },
     {
          "url":"https://media.idownloadblog.com/wp-content/uploads/2023/02/ra1ncloud-logo.jpg",
-         "title":"Animan",
-         "package":"xyz.animan.ok",
+         "title":"ra1ncloud",
+         "package":"xyz.rc.ok",
          "hideShadow":false
-    
+    }
    ]
 }
